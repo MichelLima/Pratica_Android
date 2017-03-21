@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Fuel "</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="res">Result</string>
+    <string name="alcool">Etanol</string>
+    <string name="resultado">the best choice is:     </string>
+    <string name="btcalcular">Submit</string>
+</resources>

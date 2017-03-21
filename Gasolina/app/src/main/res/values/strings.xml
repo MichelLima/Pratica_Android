@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Combustivel "</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="res">Resultado</string>
+    <string name="alcool">Alcool</string>
+    <string name="resultado">A melhor Opção é: </string>
+    <string name="btcalcular">Calcular</string>
+</resources>
