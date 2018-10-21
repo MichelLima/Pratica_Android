@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Avalia Atendimento</string>
+    <string name="txt_nome">Selecione o Funcionario</string>
+    <string name="txt_Title">Avalie o Nosso Atendimento</string>
+    <string name="bt_01">Proxima Tela </string>
+    <string name="txt_nome_func">Nome</string>
+    <string name="txt_sobre_nome">Sobre nome</string>
+    <string name="txt_data_nasc">Data de Nascimento</string>
+    <string name="txt_operacao">Operação</string>
+    <string name="salvar">Salvar</string>
+    <string name="tela2">tela cadastro</string>
+    <string name="menu_atc_ok">OK</string>
+    <string name="menu_atc_calcel">CANDELAR</string>
+    <string name="dlg_validacao_title">AVISO</string>
+    <string name="dlg_validacao_message">Há campos invalidos ou em branco</string>
+    <string name="dlg_validacao_ok">Ok</string>
+    <string name="menu_main_cads_func">Cadastrar Funcionário</string>
+    <string name="menu_main_cads_funcmenu_main_consult_func">Consultar Funcionário</string>
+    <string name="dados_inseridos_com_sucesso">Dados Inseridos com Sucesso</string>
+    <string name="title_activity_card_colab">CardColab</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="txtView_nome">Nome do Funcionário</string>
+    <string name="txt_telefone">Telefone</string>
+    <string name="txt_Like">Likes</string>
+    <string name="txt_Deslike">Deslikes</string>
+    <string name="txt_hateDeslike">HateDeslike</string>
+    <string name="avaliacao">Avaliação</string>
+    <string name="txt_email">Email</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actMenu_main_cads_Func"
+        android:title="@string/menu_main_cads_func" />
+    <item
+        android:id="@+id/actMenu_main_culsult_Func"
+        android:title="@string/menu_main_cads_funcmenu_main_consult_func"
+
+
+        />
+</menu>
