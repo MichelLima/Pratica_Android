@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.validador_cpf.Sobre">
+
+    <TextView
+        android:id="@+id/txtSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="@string/txtSobre"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txtContSobre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="@string/txtiContSobre"
+        android:textAlignment="center"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="76dp"
+        android:layout_below="@+id/txtSobre"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    </android.widget.RelativeLayout>

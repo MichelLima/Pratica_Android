@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.validador_cpf.ValidadorActivity">
+
+    <TextView
+        android:id="@+id/txt_DigiteCPF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_cpf"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="38dp"
+        android:layout_marginTop="18dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/numCPF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="102dp"
+        android:layout_marginTop="32dp"
+        android:layout_below="@+id/txt_DigiteCPF"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btCPF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_cpf"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="174dp"
+        android:layout_below="@+id/numCPF"
+        android:layout_alignRight="@+id/numCPF"
+        android:layout_alignEnd="@+id/numCPF"
+        android:layout_marginTop="18dp" />
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btCPF"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="378dp" />
+</android.widget.RelativeLayout>

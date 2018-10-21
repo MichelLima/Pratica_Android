@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iCPF</string>
+    <string name="bt_cpf">Check the CPF</string>
+    <string name="txt_cpf">Write CPF </string>
+</resources>
